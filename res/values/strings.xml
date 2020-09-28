@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ProjetoPDM</string>
+    <string name="register">Register</string>
+    <string name="no_notes">Sorry, no Info</string>
+    <string name="menu_insert">Insert new Login info</string>
+    <string name="label_name">Username</string>
+    <string name="label_address">Password</string>
+</resources>
